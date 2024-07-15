@@ -25,7 +25,7 @@ Example Clicker
 
 You can try the starting version of the bot including the basic functionality: 
 We can install ready-made solutions for you, or make you a unique clicker with a unique design.
-Contact : 
+Contact : https://t.me/chris_lev11
 
 CENPHA:
 Chúng tôi luôn làm việc để đạt được kết quả
