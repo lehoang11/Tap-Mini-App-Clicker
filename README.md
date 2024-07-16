@@ -28,7 +28,7 @@ We can install ready-made solutions for you, or make you a unique clicker with a
 Contact : https://t.me/chris_lev11
 
 CENPHA:
-Chúng tôi luôn làm việc để đạt được kết quả
-Chú ý đến đối tượng mục tiêu
-Có mặt trên các nền tảng quan trọng nhất của ngành công nghiệp tiền điện tử
-Công ty chúng tôi đã xác minh đối tác Bybit, Pinksale , OKX
+  We always work for results
+  Attention to target audience
+  Presence on the most important platforms of the crypto industry
+  Our company Verified Bybit, Pinksale & OKX Partner
