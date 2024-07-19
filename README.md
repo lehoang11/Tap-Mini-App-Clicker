@@ -22,8 +22,8 @@ Basic functional (mine-tap / boosts / refferals / tasks)
 Minor design adjustments (change styles / logos)
 Source code
 Example Clicker
-
-You can try the starting version of the bot including the basic functionality: 
+https://t.me/Tap3WebBot
+You can try the starting version of the bot including the basic functionality: https://t.me/Tap3WebBot
 We can install ready-made solutions for you, or make you a unique clicker with a unique design.
 Contact : https://t.me/chris_lev11
 
